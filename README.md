@@ -36,6 +36,6 @@
 При запуске контейнера, последней строкой в логах выведется процент идентичности этих двух файлов.
 
 ## Ссылки:
-+ [Project page](https://paperswithcode.com/paper/grounding-dino-marrying-dino-with-grounded) ссылка на Papers With Code
++ [Страница проекта](https://paperswithcode.com/paper/grounding-dino-marrying-dino-with-grounded) на Papers With Code
 
-+ [Link](https://github.com/idea-research/groundingdino) ссылка на репозиторий
++ [Ссылка](https://github.com/idea-research/groundingdino) на репозиторий
